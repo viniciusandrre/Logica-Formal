@@ -23,8 +23,9 @@ vini.andre01@outlook.com
 @versão: 1.0
 
 @outros repositórios:
-https://github.com/LucyenePinheiro
-https://github.com/viniciusandrre
+-https://github.com/LucyenePinheiro
+
+-https://github.com/viniciusandrre
 
 @Agradecimentos: Universidade Federal do Maranhão (UFMA), Professor Doutor Thales Levi Azevedo Valente, e colegas de curso.
 
