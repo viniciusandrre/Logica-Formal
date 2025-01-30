@@ -30,17 +30,17 @@ vini.andre01@outlook.com
 
 @Agradecimentos: Universidade Federal do Maranhão (UFMA), Professor Doutor Thales Levi Azevedo Valente, e colegas de curso.
 
-@Mudanças Realizadas na Apresentação do Trabalho
+@Mudanças Apontadas e Realizadas para a Melhora da Apresentação do Trabalho
 
-1. Sumário 
+1. *Sumário*: Foi inserido um sumário para organizar o conteúdo e facilitar a navegação pelo trabalho.
 
-2. Numerar páginas 
+2. *Numerar páginas*: As páginas foram numeradas para garantir uma apresentação mais profissional e estruturada.
 
-3. Melhorar estética dos slides
+3. *Melhorar estética dos slides*: Fez-se um ajuste na estética dos slides, com a escolha de layouts mais harmoniosos e uma disposição mais cuidadosa dos elementos.
 
-4. Exemplos (código )na introdução 
+4. *Formatação*: A formatação do texto foi revista, ajustando fontes, espaçamento e margens, melhorando a legibilidade e o visual geral do trabalho.
 
-5. Complexidade do código
+5. *Complexidade do código*: A complexidade do código foi reduzida e otimizada, garantindo uma explicação mais simples sem comprometer a funcionalidade.
 
 Copyright/License
 
