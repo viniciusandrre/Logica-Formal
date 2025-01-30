@@ -30,6 +30,18 @@ vini.andre01@outlook.com
 
 @Agradecimentos: Universidade Federal do Maranhão (UFMA), Professor Doutor Thales Levi Azevedo Valente, e colegas de curso.
 
+@Mudanças Realizadas na Apresentação do Trabalho
+
+1. Sumário 
+
+2. Numerar páginas 
+
+3. Melhorar estética dos slides
+
+4. Exemplos (código )na introdução 
+
+5. Complexidade do código
+
 Copyright/License
 
 Este material é resultado de um trabalho acadêmico para a disciplina "INTELIGENCIA_ARTIFICIAL", sob a orientação do professor Dr. THALES LEVI AZEVEDO VALENTE, semestre letivo 2024.2, curso Engenharia da Computação, na Universidade Federal do Maranhão (UFMA). Todo o material sob esta licença é software livre: pode ser usado para fins acadêmicos e comerciais sem nenhum custo. Não há papelada, nem royalties, nem restrições de "copyleft" do tipo GNU. Ele é licenciado sob os termos da Licença MIT, conforme descrito abaixo, e, portanto, é compatível com a GPL e também se qualifica como software de código aberto. É de domínio público. Os detalhes legais estão abaixo. O espírito desta licença é que você é livre para usar este material para qualquer finalidade, sem nenhum custo. O único requisito é que, se você usá-los, nos dê crédito.
