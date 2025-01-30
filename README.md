@@ -5,13 +5,17 @@ Reconhecimentos e Direitos Autorais
 @Autor:
 
 -Emanuelle Da Silva Laune
+
 -Lucyene Pinheiro Neves
+
 -Vinicius Andre Almeida Pereira
 
 @Contato:
 
-emanuelle.laune@discente.ufma.br
-lucyene.pinheiro@discente.ufma.br
+-emanuelle.laune@discente.ufma.br
+
+-lucyene.pinheiro@discente.ufma.br
+
 vini.andre01@outlook.com
 
 @data última versão: 30/01/2025
